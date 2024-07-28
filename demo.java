@@ -6,5 +6,7 @@ class demo{
    System.out.println("Hii");
    //print city
    System.out.println("pune");
+   //print name
+   System.out.println("nil");
  }
 }
