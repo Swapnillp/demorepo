@@ -8,5 +8,7 @@ class demo{
    System.out.println("pune");
    //print full name
    System.out.println("swapnil");
+   //print name
+   System.out.println("nil");
  }
 }
