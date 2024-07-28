@@ -6,5 +6,7 @@ class demo{
    System.out.println("Hii");
    //print city
    System.out.println("pune");
+   //print full name
+   System.out.println("swapnil");
  }
 }
