@@ -4,5 +4,7 @@ class demo{
        System.out.println("Hello world");
    //print hii
    System.out.println("Hii");
+   //print city
+   System.out.println("pune");
  }
 }
